@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Text processing", "Text processing\Text processing.csproj", "{D651530A-E669-4F21-AC2C-AEDF14AF2EB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String explosion", "String explosion\String explosion.csproj", "{7A1C3FF0-0B67-41F6-95E6-966FC580BF4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Letters change numbers", "Letters change numbers\Letters change numbers.csproj", "{8697821D-DC5A-4AEE-809D-01278B560EED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Ceaser Cipher", "04.Ceaser Cipher\04.Ceaser Cipher.csproj", "{72F66297-AD93-459B-860D-8B8E9062425A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D651530A-E669-4F21-AC2C-AEDF14AF2EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D651530A-E669-4F21-AC2C-AEDF14AF2EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D651530A-E669-4F21-AC2C-AEDF14AF2EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D651530A-E669-4F21-AC2C-AEDF14AF2EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A1C3FF0-0B67-41F6-95E6-966FC580BF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1C3FF0-0B67-41F6-95E6-966FC580BF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1C3FF0-0B67-41F6-95E6-966FC580BF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1C3FF0-0B67-41F6-95E6-966FC580BF4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8697821D-DC5A-4AEE-809D-01278B560EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8697821D-DC5A-4AEE-809D-01278B560EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8697821D-DC5A-4AEE-809D-01278B560EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8697821D-DC5A-4AEE-809D-01278B560EED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72F66297-AD93-459B-860D-8B8E9062425A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F66297-AD93-459B-860D-8B8E9062425A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F66297-AD93-459B-860D-8B8E9062425A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F66297-AD93-459B-860D-8B8E9062425A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C793AD77-7D60-48AD-B21D-21C47C2A5E8A}
+	EndGlobalSection
+EndGlobal
